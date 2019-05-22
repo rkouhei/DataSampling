@@ -1,0 +1,69 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 42}, {171, 450}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "107F0DF1-37B9-4A8D-8903-CCD9716817EB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "GPS LOGGER",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{37, 508}, {80, 53}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "New",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "title" : "NEW",
+          "uuid" : "A043DB75-43F3-4803-A979-79D2937D21B8",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{202, 508}, {80, 53}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "Add",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "title" : "ADD",
+          "uuid" : "047F4097-DF5A-47FE-905A-5AE9D1B13A44",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {318, 585}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

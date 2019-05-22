@@ -1,0 +1,10 @@
+位置情報について
+
+altitude : 高度
+longitude : 経度
+latitude : 緯度
+timestamp : 
+horizontal_accuracy : 垂直
+vertical_accuracy : 
+speed : 
+course : 

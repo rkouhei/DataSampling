@@ -1,0 +1,259 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 397}, {133, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "start",
+          "frame" : "{{133, 213}, {80, 32}}",
+          "title" : "Start",
+          "uuid" : "93A64545-27CE-41FB-B2C7-DED5E332D7FC",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{97, 104}, {224, 39}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{73, 213}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "859F2D18-8D25-4D75-96BD-3C0DEFDF7BBC",
+          "alignment" : "center",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "longi_text",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{97, 151}, {224, 39}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{73, 213}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "AF9FB6F0-768F-490A-A832-AC91D33C6FDE",
+          "alignment" : "center",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "lati_text",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{97, 198}, {224, 39}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{73, 213}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "4B8500DE-63B9-44FC-BAF7-54393BCAE7A8",
+          "alignment" : "center",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "alti_text",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 104}, {57, 39}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "7D7AE951-8B06-48C7-A091-CE5B78109ADD",
+          "font_size" : 17,
+          "frame" : "{{73, 129}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "経度 : ",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 198}, {57, 39}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "7D7AE951-8B06-48C7-A091-CE5B78109ADD",
+          "flex" : "WH",
+          "frame" : "{{73, 129}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "高度 : ",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 151}, {57, 39}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "7D7AE951-8B06-48C7-A091-CE5B78109ADD",
+          "flex" : "WH",
+          "frame" : "{{73, 129}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "緯度 : ",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{142, 6}, {57, 38}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "7D7AE951-8B06-48C7-A091-CE5B78109ADD",
+          "font_size" : 17,
+          "frame" : "{{73, 129}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "日時",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 52}, {289, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "datetime_text",
+          "frame" : "{{73, 213}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "1EF7F589-9C4E-4B24-BAB4-A510F54E48F7",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{97, 355}, {217, 34}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "0BCECD86-73CF-435E-8B68-F3B5C7A1249C",
+          "font_size" : 17,
+          "frame" : "{{73, 129}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "秒間隔でデータを取得する",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview2",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{181, 397}, {133, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "stop",
+          "frame" : "{{133, 213}, {80, 32}}",
+          "title" : "Stop",
+          "uuid" : "93A64545-27CE-41FB-B2C7-DED5E332D7FC",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 355}, {57, 34}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "seconds_field",
+          "frame" : "{{73, 213}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "DE70B3DF-9BB5-447F-B34D-BFA09B2E59B1",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {346, 458}}",
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
