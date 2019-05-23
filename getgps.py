@@ -22,3 +22,10 @@ class getgps_text :
 		view['alti_text'].text = str(gps['altitude']) # 高度
 		view['longi_text'].text = str(gps['longitude']) # 経度
 		view['lati_text'].text = str(gps['latitude']) # 緯度
+		
+		# csv用の辞書作成
+		gps_dict = {'altitude':gps['altitude'],'longitude':gps['longitude'],'latitude':gps['latitude']}
+		return gps_dict
+		
+		# 全てのデータが欲しい場合
+		# gps_dict = gps
